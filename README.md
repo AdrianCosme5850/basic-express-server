@@ -1,4 +1,17 @@
-# basic-express-server  
+# basic-express-server 
+
+## .env 
+
+Requires your port.  
+
+## running the app  
+
+npm start or nodemon.  
+/person endpoint with a name key value pair returns a json object.
+
+## tests  
+
+npm test runs all appropriate tests.
 
 ## UML  
 
